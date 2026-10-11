@@ -6,7 +6,6 @@ android {
     namespace = "tn.loukious.superproxyunlocker"
     compileSdk = 36
     defaultConfig {
-        // Separate identity preserves the recovered legacy APK and its data.
         applicationId = "tn.loukious.superproxyunlocker.modern"
         minSdk = 27
         targetSdk = 35
