@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Super Proxy Unlocker</string>
+    <string name="module_description">Super Proxy unlocker using modern Xposed and DexKit discovery.</string>
+</resources>
